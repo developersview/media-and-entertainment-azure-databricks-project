@@ -1,0 +1,4 @@
+storage url : abfss://metastore@datalakeprojectnetflix.dfs.core.windows.net/
+
+
+Access Connector ID : /subscriptions/3c7a1836-2bf6-4aa7-b6f5-c87d22c496dc/resourceGroups/RG-NetflixProject/providers/Microsoft.Databricks/accessConnectors/netflix_access
