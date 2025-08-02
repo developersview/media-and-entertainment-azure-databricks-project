@@ -1,0 +1,40 @@
+As you know, I am working on my latest project Netlfix Data Analytics in Media and Entertainment Domain.
+So. I have completed data engineering part. So, now its time to solve real time business problem and create a Power BI dashboard
+Read the below schema definition and prepare at least 15 business problem which cane be address by power bi. For each problem I want you to tell me which chart i should use and which fields i should use. in those 15 business problem, there should be at least 5 questions, which need to be solved after performing some DAX operation. Understnd the schema 1st and then proceed.
+
+All Schema Definition:
+
+1. netflix_cast schema:
+	root
+	 |-- cast: string (nullable = true)
+	 |-- show_id: integer (nullable = true)
+	 
+2. netflix_category schema:
+	root
+	 |-- listed_in: string (nullable = true)
+	 |-- show_id: integer (nullable = true)
+	 
+3. netflix_countries Schema:
+	root
+	 |-- country: string (nullable = true)
+	 |-- show_id: integer (nullable = true)
+
+4. netflix_directors schema:
+	root
+	 |-- director: string (nullable = true)
+	 |-- show_id: integer (nullable = true)
+
+5. netflix_titles schema:
+	root
+	 |-- duration_minutes: integer (nullable = true)
+	 |-- duration_seasons: integer (nullable = true)
+	 |-- type: string (nullable = true)
+	 |-- title: string (nullable = true)
+	 |-- date_added: date(nullable = true)
+	 |-- release_year: integer (nullable = true)
+	 |-- rating: string (nullable = true)
+	 |-- description: string (nullable = true)
+	 |-- show_id: integer(nullable = true)
+	 |-- ShortTitle: string (nullable = true)
+	 |-- rating_new: string (nullable = true)
+	 |-- rank_duration_minutes: integer (nullable = true)
