@@ -1,6 +1,3 @@
-# media-and-entertainment-azure-databricks-project
-This is an end-to-end project on Media and Entertainment (M&amp;E) domain using Microsoft Azure (Data Factory, Databricks, Azure Data Lake Gen 2)
-
 # 🎬 End-to-End Streaming Analytics Project for Online OTT Platform | Azure Databricks, Power BI, SQL, Python
 
 > **Domain : Median and Entertainment**
@@ -73,10 +70,16 @@ The project mimics the kind of content and operational intelligence used by top 
 - 🧠 **KPI Tiles in Power BI** — Total Titles, YoY Growth %, Top Country, Genre Count, etc.
 
 ---
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-1. Content Overview:
+1. **Content Overview**:
 ![content overview](https://github.com/developersview/media-and-entertainment-azure-databricks-project/blob/master/img/1_Content_Overview_Page.png)
+
+2. **Geography and People Analytics**:
+![people analytics](https://github.com/developersview/media-and-entertainment-azure-databricks-project/blob/master/img/2_Geography_People_Analytics_Page.png)
+
+3. **Content Consumption**: 
+![content consumption](https://github.com/developersview/media-and-entertainment-azure-databricks-project/blob/master/img/3_Content_Consumption_Overview_Page.png)
 
 🚀 Future Enhancements
 - Connect to real-time streaming data using Azure Event Hubs or Kafka.
@@ -91,6 +94,6 @@ The project mimics the kind of content and operational intelligence used by top 
 
 > 🤝 Let's Connect
 
-    📧 My Email : pcslg1998@gmail.com
+- 📧 My Email : pcslg1998@gmail.com
 
-    🔗 Pranoy Chakraborty | [LinkedIn](https://www.linkedin.com/in/pranoy-chakraborty/)
+- 🔗 Pranoy Chakraborty | [LinkedIn](https://www.linkedin.com/in/pranoy-chakraborty/)
