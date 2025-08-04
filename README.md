@@ -1,6 +1,6 @@
 # 🎬 End-to-End Streaming Analytics Project for Online OTT Platform | Azure Databricks, Power BI, SQL, Python
 
-> **Domain : Median and Entertainment**
+> **Domain : Media and Entertainment**
 
 
 > 🚀 An end-to-end data analytics solution that leverages Azure Data Factory, Azure Databricks for large-scale transformation and Power BI for interactive dashboarding, focused on analyzing streaming content trends in the media and entertainment industry.
